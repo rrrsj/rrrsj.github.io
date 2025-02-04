@@ -1,2 +1,2 @@
-# rrrsj.github.io
-Shijie Ren homepage
+Name: Shijie Ren
+Email:shj_ren@foxmail.com
